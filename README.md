@@ -1,5 +1,9 @@
 # 2022システム開発 前期最終課題
 1. Docker起動<br>
+```
+docker compose build
+docker compose up
+```
 2. テーブルの作成<br>
 ```
 CREATE TABLE `bbs_entries` (
