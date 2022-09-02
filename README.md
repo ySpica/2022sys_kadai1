@@ -14,4 +14,4 @@ CREATE TABLE `bbs_entries` (
 );
 ```
 
-3. <a href="http://IP_ADDRESS/kadai.php">http://IP_ADDRESS/kadai.php</a>
+3. <a href="http://18.212.98.243/kadai.php">http://18.212.98.243/kadai.php</a>
